@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/студент/eclipse/rcp-2020-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/ИС-7-19%20Григорьев%20Николай/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/ИС-7-19%20Арсентьев%20Степанов/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/студент/eclipse/cpp-2020-094/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/студент/eclipse/cpp-2020-093/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/ИС-7-19%20Арсентьев%20Степанов/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/студент/eclipse/cpp-2020-092/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/студент/eclipse/cpp-2020-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/C:/ИС-7-19%20Григорьев%20Николай/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/rcp-2020-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/студент/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/cpp-2020-094/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/cpp-2020-092/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/cpp-2020-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/ИС-7-19%20Арсентьев%20Степанов/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/cpp-2020-093/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/студент/eclipse/rcp-2020-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
